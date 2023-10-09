@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Hoc bai đi chơi game cc.")
+game.Players.LocalPlayer:Kick("Học bài đi chơi game cc cak cha may🖕.")
